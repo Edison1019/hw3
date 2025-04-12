@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
+#include <vector>
 #include "Problem.h"
 #define red(text)    "\033[31m" text "\033[0m"
 #define green(text)  "\033[32m" text "\033[0m"
